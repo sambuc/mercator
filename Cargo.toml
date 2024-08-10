@@ -21,7 +21,7 @@ members = [
 ]
 
 [profile.release]
-lto = true
+#lto = true
 #debug = true
 
 [patch.crates-io]
